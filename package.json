@@ -1,0 +1,22 @@
+{
+  "name": "markergen",
+  "version": "1.0.0",
+  "description": "uNmINeD marker generator",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prkdmc/markergen.git"
+  },
+  "author": "Kirill GPRB <https://github.com/undnull>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prkdmc/markergen/issues"
+  },
+  "homepage": "https://github.com/prkdmc/markergen#readme",
+  "dependencies": {
+    "prismarine-nbt": "^2.2.1"
+  }
+}
